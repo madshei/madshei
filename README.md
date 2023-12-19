@@ -1,5 +1,16 @@
 # madashei
-My personal repository
+My repository
+
+### Hi there 👋
+* 👂 My name is Mohammad
+* 🔭 I’m currently working on Myself!
+* 🌱 I’m currently learning Python
+* 🤝 I’m looking to collaborate on ...
+* 🤔 I’m looking for help with ...
+* 💬 Ask me about ...
+* 📫 How to reach me: https://t.me/pynux
+* ❤️ I love Computer and all sciences about the digital world
+* ⚡ Fun fact: I'm mad!
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
