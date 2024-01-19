@@ -1,7 +1,7 @@
 
 ## Hi HACKERS 👋!!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  <img src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/24x24/bug.png" width="24px">
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Welcome+to+my+home+page+%F0%9F%91%8B;I+guess+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D;Hope+there+is+something+you+need+%F0%9F%8E%81">
+<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Welcome+to+my+home+page+%F0%9F%91%8B;I+bet+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D">
 </h1>  
 
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FP-2rEbWQAE-nbN?format=jpg&name=large)
@@ -153,7 +153,7 @@ int main(void) {
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='30%"'>
 
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
  <a href="https://www.buymeacoffee.com/MadShei" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
