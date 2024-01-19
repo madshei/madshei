@@ -6,7 +6,7 @@
 
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FP-2rEbWQAE-nbN?format=jpg&name=large)
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
- <p align="center"><img src="https://giffiles.alphacoders.com/119/119821.gif" alt="hacking GIF" widht="500" height="400">
+ <p align="center"><img src="https://giffiles.alphacoders.com/119/119821.gif" alt="hacking GIF" widht="700" height="500">
     
 
 ```c
@@ -23,7 +23,6 @@ int main(void) {
 ``` 
 - 🔭 I’m currently working on private project 
 - 🌱 I’m currently learning Cyber_Security 
-- 👯 I’m looking to collaborate on GITHUB TWITTER FACEBOOK 
 - 💬 Ask me about Nothing! 
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -59,13 +58,9 @@ int main(void) {
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MadShei&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MadShei)  
-
-![GitHub metrics](https://metrics.lecoq.io/MadShei)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MadShei)  
 
-![Profile views](https://gpvc.arturio.dev/MadShei)  
 
 <h3 align="left">Languages and Tools:</h3>!
  # Working Experience 0.01 basic with:
