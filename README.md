@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Welcome+to+my+home+page+%F0%9F%91%8B;I+bet+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D">
 </h1>  
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FP-2rEbWQAE-nbN?format=jpg&name=large)
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700" height="600">
  <p align="center"><img src="https://giffiles.alphacoders.com/119/119821.gif" alt="hacking GIF" widht="700" height="500">
     
 
